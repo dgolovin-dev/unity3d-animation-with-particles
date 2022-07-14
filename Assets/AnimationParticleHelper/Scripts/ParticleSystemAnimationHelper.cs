@@ -38,9 +38,11 @@ public class ParticleSystemAnimationHelper : MonoBehaviour {
   }
 
   private void Update() {
-    UpdateState();
-    if (!previewing) return;
-    UpdateParticleSystemSimulation(previewingTime);
+    if (!Application.isPlaying) {
+      UpdateState();
+      if (!previewing) return;
+      UpdateParticleSystemSimulation(previewingTime);
+    }
   }
 
   private void UpdateState() {
