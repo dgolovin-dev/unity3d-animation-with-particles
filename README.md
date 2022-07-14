@@ -1,4 +1,4 @@
-# Animator + ParticleSystem in the Unity Editor
+# Unity3d: Animation helper for Particle Systems (Edit mode)
 
 There is an inconvenience, that you can't play an animation with a particle system
 in the Editor. A particle system just won't work when you preview an animation.
