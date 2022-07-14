@@ -14,11 +14,14 @@ I tried to find a solution and I wrote this helper.
 
 Clone out the source code and see the full example.
 
-There are some **important notes**:
+## There are some **important notes**:
 - you should enable the particle system in your animation
 - you shold select the particle systems in the Hierarchy when you are playing the animation (otherwise editor won't render the particle systems)
 - set the correct duration for the particle system
 - this helper works only in edit mode
+
+
+## PS
 
 **I consider that the Unity Editor should allow playing particle systems 
 in animation out of the box.**
