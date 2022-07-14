@@ -4,7 +4,7 @@ There is an inconvenience, that you can't play an animation with a particle syst
 in the Editor. A particle system just won't work when you preview an animation.
 Often, it is crucial when you develop a visual effect which uses both an animation and a particle system.
 
-I tried to find a simple solution and I wrote this helper.
+I tried to find a solution and I wrote this helper.
 
 
 [
