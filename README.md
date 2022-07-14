@@ -6,8 +6,11 @@ Often, it is crucial when you develop a visual effect which uses both an animati
 
 I tried to find a simple solution and I wrote this helper.
 
-*Click this image to see the video.*
-[![video](https://github.com/dgolovin-dev/unity3d-animation-with-particles/raw/main/screenshot.png)](https://github.com/dgolovin-dev/unity3d-animation-with-particles/raw/main/video.mov)
+
+[
+*>watch the video<*
+![Watch the video.](https://github.com/dgolovin-dev/unity3d-animation-with-particles/raw/main/screenshot.png)
+](https://github.com/dgolovin-dev/unity3d-animation-with-particles/raw/main/video.mov)
 
 Check out the source code and see the full example.
 
