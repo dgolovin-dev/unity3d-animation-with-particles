@@ -20,5 +20,9 @@ There are some important notes:
 - set the correct duration for the particle system
 - this helper works only in edit mode
 
-**I consider that the Unity Editor should allow playing particle systems 
-in animation out of the box! So, developers of Unity - pay attention to this helper.**
+I consider that the Unity Editor should allow playing particle systems 
+in animation out of the box!
+
+**So, the developers of Unity - pay attention to this helper.**
+
+Other guys - feel free to copy and modify [this script](Assets/AnimationParticleHelper/Scripts/ParticleSystemAnimationHelper.cs).
